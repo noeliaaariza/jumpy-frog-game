@@ -1,6 +1,4 @@
-# Juego de Ranas Saltarinas
-
-## (Lazy Jumpy Frogs Game)
+# (Lazy Jumpy Frogs Game)
 
 Este es un juego simple en el que controlas varias ranas que intentan atrapar una mosca. Cada vez que una rana atrapa la mosca, el jugador recibe un punto. El objetivo es atrapar la mayor cantidad de moscas antes de que se acabe el tiempo.
 
